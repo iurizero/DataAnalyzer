@@ -40,7 +40,7 @@ DataAnalyzer/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/DataAnalyzer.git
+git clone https://github.com/iurizero/DataAnalyzer.git
 cd DataAnalyzer
 ```
 
